@@ -43,7 +43,7 @@
     "react-dom": "^18.2.0",
     "remix": "^2.1.0",
     "remix-validated-form": "^5.1.5",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^2.13.12",
